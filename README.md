@@ -1,9 +1,3 @@
-# AWS EC2 Jenkins Setup
-
-Configured Jenkins on an AWS EC2 Ubuntu instance to practice cloud infrastructure automation.  
-Created and secured EC2 instance, set up security groups, installed Jenkins, and ensured the service starts automatically.  
-Focus on cloud provisioning, server setup, and secure configuration practices.
-
 # Jenkins Setup on AWS EC2 (Ubuntu)
 
 🚀 My first DevOps project — I installed and configured Jenkins on an AWS EC2 instance running Ubuntu.
